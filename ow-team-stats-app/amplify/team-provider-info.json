@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "ow-team-stats-app-dev-20190507144117-authRole",
+            "UnauthRoleArn": "arn:aws:iam::007984947332:role/ow-team-stats-app-dev-20190507144117-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::007984947332:role/ow-team-stats-app-dev-20190507144117-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "ow-team-stats-app-dev-20190507144117-deployment",
+            "UnauthRoleName": "ow-team-stats-app-dev-20190507144117-unauthRole",
+            "StackName": "ow-team-stats-app-dev-20190507144117",
+            "StackId": "arn:aws:cloudformation:us-east-1:007984947332:stack/ow-team-stats-app-dev-20190507144117/d8eb1050-7110-11e9-a669-0a875441099a"
+        }
+    }
+}
